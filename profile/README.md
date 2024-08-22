@@ -5,6 +5,6 @@ We won't do anything bad :)
 
 Search word (検索ワード): `Evex Dev`
 
-Discord: https://discord.gg/6e4B8dA9z9
+Discord: https://discord.gg/evex
 
 Our website: https://evex.land
